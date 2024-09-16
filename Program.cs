@@ -21,7 +21,7 @@ using Folder = Autodesk.Connectivity.WebServices.Folder;
 using File = Autodesk.Connectivity.WebServices.File;
 using VaultConnection = Autodesk.DataManagement.Client.Framework.Vault.Currency.Connections.Connection;
 
-namespace VaultPojectUploader
+namespace VaultProjectUploader
 {
     public class Program
     {

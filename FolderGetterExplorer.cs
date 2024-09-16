@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 // NEED ACCESS TO AN EXPLORER FOLDER
 
-namespace VaultPojectUploader
+namespace VaultProjectUploader
 {
     public class FolderGetterExplorer
     {

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaultPojectUploader", "VaultPojectUploader.csproj", "{99D6FAF8-E82A-429E-95EF-4FF03FAE6C0C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaultProjectUploader", "VaultProjectUploader.csproj", "{99D6FAF8-E82A-429E-95EF-4FF03FAE6C0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

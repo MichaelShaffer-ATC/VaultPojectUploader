@@ -12,7 +12,7 @@ using Library = Autodesk.DataManagement.Client.Framework.Vault.Library;
 using Folder = Autodesk.Connectivity.WebServices.Folder;
 using File = Autodesk.Connectivity.WebServices.File;
 
-namespace VaultPojectUploader
+namespace VaultProjectUploader
 {
     public class FolderGetterVault
     {

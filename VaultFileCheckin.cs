@@ -17,7 +17,7 @@ using VaultConnection = Autodesk.DataManagement.Client.Framework.Vault.Currency.
 using VDF = Autodesk.DataManagement.Client.Framework;
 using Autodesk.Connectivity.WebServices;
 
-namespace VaultPojectUploader
+namespace VaultProjectUploader
 {
     public class VaultFileCheckin
     {
