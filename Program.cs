@@ -54,8 +54,8 @@ namespace VaultProjectUploader
 
                 // Log in without creds (AutoDesk ID):
                 ServerIdentities serverId = new ServerIdentities();
-                serverId.DataServer = "US5DEVAVLT1";
-                serverId.FileServer = "US5DEVAVLT1";
+                serverId.DataServer = "US5AVLT1";
+                serverId.FileServer = "US5AVLT1";
                 string vaultName = "ATC";
 
                 IAutodeskAccount autodeskAccount = AutodeskAccount.Login(hwnd: IntPtr.Zero);
