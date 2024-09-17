@@ -13,7 +13,7 @@ Upgrade notes are avaialble below if required
 ### The adskLicensingSDK dll will need to be updated to match the current version of Vault, the following is only required for upgrades passed Vault 2022
 * The SDK exe will need to be run with the new version of Vault which should be found: C:\Program Files\Autodesk\Vault Client 202X\SDK\Setup.exe
 * Running the exe will download files to the following location: C:\Program Files\Autodesk\Autodesk Vault 202X SDK
-* Download the required dll's from the SDK location: C:\Program Files\Autodesk\Autodesk Vault 2022 SDK\bin\x64
+* Download the required dll's from the SDK location: C:\Program Files\Autodesk\Autodesk Vault 202X SDK\bin\x64
 * AdskLicensingSDK_5.dll will need to be updated to the latest version
   + Vault 2022: AdskLicensingSDK_5.dll
   + Vault 2023: AdskLicensingSDK_6.dll
