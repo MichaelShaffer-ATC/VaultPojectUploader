@@ -19,4 +19,4 @@ Upgrade notes are avaialble below if required
   + Vault 2023: AdskLicensingSDK_6.dll
   + Vault 2024: AdskLicensingSDK_7.dll, AdskIdentitySDK.dll, AdskIdentitySDK.config
   + Vault 2025 .NET Framework: AdskLicensingSDK_8.dll, AdskIdentitySDK.dll, AdskIdentitySDK.config
-* See [Installing the Vault SDK] `(https://blogs.autodesk.com/vault/2024/03/autodesk-vault-sdk-getting-started-1-installing-the-sdk/)` for more details.
+* See [Installing the Vault SDK](https://blogs.autodesk.com/vault/2024/03/autodesk-vault-sdk-getting-started-1-installing-the-sdk/) for more details.
