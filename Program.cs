@@ -27,7 +27,7 @@ namespace VaultProjectUploader
     {
         public static void ErrorDisplay(Exception ex, string message)
         {
-            Console.WriteLine($"An error occurred: {ex.Message}\nStack Trace: {ex.StackTrace}\n{message} Press any key to continue.");
+            Console.WriteLine($"An error occurred: {ex.Message}\nStack Trace: {ex.StackTrace}\n{message}.");
         }
 
         // Move UploadStatus to VaultFileCheckin (makes more sense there)
